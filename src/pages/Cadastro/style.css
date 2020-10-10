@@ -1,0 +1,31 @@
+.Cadastro > h1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#nome{
+    box-sizing: border-box;
+    width: 180px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+#emial{
+    box-sizing: border-box;
+    width: 180px;
+    height: 30px;
+    margin-bottom: 20px; 
+}
+
+#permissao{
+    margin-bottom: 20px;
+    border-style: none;
+    width:180px;
+    height: 30px;
+}
+
+#senha{
+    box-sizing: border-box;
+    width: 180px;
+    height: 30px;
+}
